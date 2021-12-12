@@ -1,0 +1,8 @@
+.DS_Store
+.env.development 
+/.ipynb_checkpoints
+/.vscode
+/.venv
+
+/12_02_2021
+/dissertations
