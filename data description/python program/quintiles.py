@@ -8,7 +8,7 @@
         # x-axis is days / weeks since launching
 #%%
 import requests,csv
-import pandas as pd
+import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt 
 from matplotlib.backends.backend_pdf import PdfPages
